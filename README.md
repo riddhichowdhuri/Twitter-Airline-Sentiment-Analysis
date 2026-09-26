@@ -31,8 +31,7 @@ customer service issue, lost luggage, etc.) toward six US airlines: American,
 Delta, Southwest, US Airways, United, and Virgin America.
 
 `data/Tweets.csv` is a straight copy of the original file (14,640 rows, 15
-columns) — no data was invented for this project. If you prefer to fetch it
-yourself, download it from the Kaggle link above and place it at
+columns) 
 `data/Tweets.csv`.
 
 ## Setup
