@@ -1,0 +1,19 @@
+Total tweets: 14640
+Airlines covered: American, Delta, Southwest, US Airways, United, Virgin America
+
+Overall sentiment counts:
+   negative: 9178 (62.7%)
+    neutral: 3099 (21.2%)
+   positive: 2363 (16.1%)
+
+Top 10 negative reasons:
+  Customer Service Issue: 2910
+  Late Flight: 1665
+  Can't Tell: 1190
+  Cancelled Flight: 847
+  Lost Luggage: 724
+  Bad Flight: 580
+  Flight Booking Problems: 529
+  Flight Attendant Complaints: 481
+  longlines: 178
+  Damaged Luggage: 74

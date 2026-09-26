@@ -1,0 +1,14 @@
+Model: TF-IDF (unigrams+bigrams, 5000 features) + Logistic Regression
+Train size: 11712  |  Test size: 2928
+Accuracy: 0.7756
+
+Classification report:
+              precision    recall  f1-score   support
+
+    negative       0.89      0.81      0.85      1835
+     neutral       0.56      0.72      0.63       620
+    positive       0.72      0.72      0.72       473
+
+    accuracy                           0.78      2928
+   macro avg       0.72      0.75      0.73      2928
+weighted avg       0.79      0.78      0.78      2928
